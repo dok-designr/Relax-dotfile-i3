@@ -1,0 +1,10 @@
+[colors]
+
+BG = #12151a
+BGL = #1b1f28
+FG = #CDCED0
+FGL = #1b1f28
+primary = #0D0F13
+secondary = #8fbcbb
+alert = #8fbcbb
+
