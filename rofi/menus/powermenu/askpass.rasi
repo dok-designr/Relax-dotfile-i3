@@ -1,0 +1,27 @@
+/* Copyright (C) 2020-2021 Aditya Shakya <adi1090x@gmail.com> */
+/* Everyone is permitted to copy and distribute copies of this file under GNU-GPL3 */
+
+@import "styles/colors.rasi"
+
+* {
+    background-color:       @BG;
+    text-color:             #eeeeee;
+	font:				 	"Iosevka Nerd Font 14";
+	
+}
+
+window {
+    width:      			400px;
+    padding:    			40px;
+    border-radius:          20px;
+    border-color:           @selected;
+     x-offset:                       -14px;
+    y-offset:                       -41px;
+    location:                       5;
+}
+
+entry {
+    expand: 				true;
+    width: 				150px;
+    text-color:				@BGA;
+}
